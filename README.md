@@ -21,4 +21,4 @@
 
 
 ## License
-This repository is licensed, as found in the [LICENSE](https://github.com/rapha18th/Wildfires-prediction-iginis/blob/master/LICENSE) file.
+This repository, `Wildfires-prediction-ignis` is licensed, as found in the [LICENSE](https://github.com/rapha18th/Wildfires-prediction-iginis/blob/master/LICENSE) file.
